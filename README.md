@@ -1,0 +1,3 @@
+Le projet « TAILOR AI » 
+
+Ce projet vise à proposer une méthode permettant aux clients de prendre leurs mesures pour des vêtements sur mesure. Pour ce faire, une solution a été développée, qui acquiert des images 2D du corps, utilise des algorithmes de vision par ordinateur (notamment un modèle CNN basé sur OpenPose) pour reconnaître les points clés du corps et calcule les mensurations correspondant aux tailles de vêtements standard. Ce projet répond aux problématiques de la mode personnalisée et des retours liés aux achats en ligne en offrant des mesures précises et sans contact.
